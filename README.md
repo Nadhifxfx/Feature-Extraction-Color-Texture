@@ -1,4 +1,4 @@
-# Feature-Extraction-Color-Texture
+# Feature Extraction Color Texture
 ```python
 # Import library
 import cv2
